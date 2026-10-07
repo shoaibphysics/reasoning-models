@@ -6,6 +6,8 @@ An incremental learning project exploring reasoning in language models, from pro
 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shoaibphysics/reasoning-models/blob/main/notebooks/01_inference_time_reasoning.ipynb) [01_inference_time_reasoning.ipynb](notebooks/01_inference_time_reasoning.ipynb) — Direct and chain-of-thought prompting, majority voting, best-of-N selection, and reward-guided beam search.
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shoaibphysics/reasoning-models/blob/main/notebooks/02_rl_foundations.ipynb) [02_rl_foundations.ipynb](notebooks/02_rl_foundations.ipynb) — Multi-armed bandits, epsilon-greedy action selection, Markov decision processes, value iteration with a recycling robot, and policy iteration for car rental.
+
 ## Getting started
 
 Install dependencies with `uv`:
